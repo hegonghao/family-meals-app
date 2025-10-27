@@ -383,8 +383,8 @@ curl https://your-domain.com/api/health
 - **API 文档**: https://your-domain.com/api/docs
 
 **默认测试账号** (运行 seed 后):
-- 管理员: `admin` / `admin123`
-- 用户: `john` / `user123`
+- 管理员: `admin` / `password`
+- 用户: `john` / `password`
 
 ---
 

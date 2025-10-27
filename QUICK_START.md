@@ -253,8 +253,8 @@ curl https://your-domain.com/api/health
 - **健康检查**: `https://your-domain.com/api/health`
 
 **默认测试账号**:
-- 管理员: `admin` / `admin123`
-- 用户: `john` / `user123`
+- 管理员: `admin` / `password`
+- 用户: `john` / `password`
 
 ---
 

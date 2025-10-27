@@ -139,9 +139,9 @@ npm run start:dev
 ```
 
 **测试账号**（运行 seed 后）：
-- 管理员: `admin` / `admin123`
-- 用户1: `john` / `user123`
-- 用户2: `jane` / `user123`
+- 管理员: `admin` / `password`
+- 用户1: `john` / `password`
+- 用户2: `jane` / `password`
 
 后端服务：
 - API: http://localhost:3000/api
