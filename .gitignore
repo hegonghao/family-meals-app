@@ -2,7 +2,8 @@
 node_modules/
 npm-debug.log
 *.log
-package-lock.json
+# Allow package-lock.json for production consistency
+!package-lock.json
 
 # Backend
 backend/dist/
@@ -75,3 +76,14 @@ nginx/ssl/*.crt
 # Backups
 backup_*.sql
 *.backup
+
+# Development Tools & Personal Config
+.claude/
+.specify/
+CLAUDE.md
+CLAUDE.mdold
+specs/
+
+# Editor & IDE
+.vscode-test/
+*.code-workspace
